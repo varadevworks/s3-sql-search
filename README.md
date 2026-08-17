@@ -209,27 +209,6 @@ Deploy the Streamlit web application within Snowflake to provide an intuitive se
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Whether you want to:
-
-- 🐛 Report bugs or issues
-- 💡 Suggest new features or improvements
-- 📝 Improve documentation
-- 🔧 Submit pull requests
-
-Please feel free to:
-
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/amazing-feature`)
-3. **Commit your changes** (`git commit -m 'Add some amazing feature'`)
-4. **Push to the branch** (`git push origin feature/amazing-feature`)
-5. **Open a Pull Request**
-
-For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
